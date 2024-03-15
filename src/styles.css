@@ -1,0 +1,198 @@
+/*
+************* WEB222(ASSIGNMENT 3)  *******************
+Name: Ayush Dobiwala 
+id:152879227
+Email address: ahdobiwala@myseneca.ca
+File: style.css
+*/
+
+header {
+  background-color: #3c5898;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+body {
+  background-color: white;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  background-color: #3c5898;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0.5;
+  margin: 10;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+article {
+  width: 80%;
+  margin: 20px auto;
+}
+
+/* for index.html */
+
+#Director p {
+  color: #3c5898;
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: -25px;
+}
+
+#hero-section {
+  background-image: url('hero-background.jpg');
+  background-size: cover;
+  color: #3c5898;
+  text-align: center;
+  padding: 10 px;
+}
+
+#hero-section h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+#hero-section p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+#hero-section img {
+  display: block;
+  margin: 0 auto;
+  max-width: 40%;
+  height: auto;
+}
+
+#explore-button {
+  background-color: #3c5898;
+  color: #fff;
+  padding: 15px 50px;
+  font-size: 1.2em;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+#explore-button:hover {
+  background-color: #3c5898;
+}
+
+/* for about.html */
+#author img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#media img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  max-width: 70%;
+  height: auto;
+}
+
+#media video {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  height: auto;
+}
+
+#media h1 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+#media audio {
+  color: black;
+  text-align: center;
+  width: 75%;
+  margin-left: 180px;
+}
+
+#author h2 {
+  margin-bottom: -10px;
+}
+
+#plot .image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#plot .image-container img {
+  max-width: 50%;
+  height: auto;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.image-container img {
+  width: 48%;
+  height: 100px;
+}
+
+#plot h2 {
+  margin-bottom: -10px;
+}
+
+#research-summary img {
+  max-width: 50%;
+  height: auto;
+}
+
+#research-summary h2 {
+  margin-bottom: -10px;
+}
+
+/* For honesty.html*/
+
+#honesty-statement h2 {
+  margin-bottom: -10px;
+}
+
+#credits h2 {
+  margin-bottom: -10px;
+}
+
+#credits ul {
+  margin-left: -25px;
+}
