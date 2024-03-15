@@ -3,7 +3,7 @@
 Welcome to SocialNetworkSnapshot - Your Quick Summary website of "The Social Network" Movie!
 
 # website-demo
-![Alt Text](src/trailer.mp4)
+![Alt Text](src/demo.gif)
 
 
 ### Overview
