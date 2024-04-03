@@ -8,7 +8,7 @@ Welcome to SocialNetworkSnapshot - Your Quick Summary website of "The Social Net
 
 ### Overview
 
-SocialNetworkSnapshot is a simple yet comprehensive repository that offers quick summaries and insights into the movie "The Social Network." Directed by David Fincher, "The Social Network" is a captivating portrayal of the creation and rise of Facebook.
+SocialNetworkSnapshot is a simple yet comprehensive website that offers quick summaries and insights into the movie "The Social Network." Directed by David Fincher, "The Social Network" is a captivating portrayal of the creation and rise of Facebook.
 
 ### Features
 
